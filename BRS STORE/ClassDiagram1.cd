@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BRS_STORE.BootStart">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAABACAACAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BootStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BRS_STORE.mainmenu">
+    <Position X="2.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>cRABAhIAATFAAJBCABCEQAYCAIQNhhAgADAPAaJQAAA=</HashCode>
+      <FileName>mainmenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BRS_STORE.loginpage">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAQCAAABAABACAAAECAAAYAAAAAGAAAwBAAAA=</HashCode>
+      <FileName>loginpage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BRS_STORE.viewRecord">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAIBQAACAAABAAAACAQAICAAg8AAIAAHACAQBAAAA=</HashCode>
+      <FileName>viewRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BRS_STORE.sort">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAACAAghAAAICAwACCAAwiAAACgHALCQBAAAA=</HashCode>
+      <FileName>sort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BRS_STORE.Program">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

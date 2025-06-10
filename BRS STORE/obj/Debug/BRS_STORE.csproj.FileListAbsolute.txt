@@ -1,0 +1,45 @@
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\CW_Yuvista_Restaurant.Properties.Resources.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\BRS_STORE.csproj.GenerateResource.cache
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\BRS_STORE.csproj.CoreCompileInputs.cache
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\CW-Yuvista Restaurant.exe
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\CW-Yuvista Restaurant.pdb
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\bin\Debug\CW-Yuvista Restaurant.exe.config
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\bin\Debug\CW-Yuvista Restaurant.exe
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\bin\Debug\CW-Yuvista Restaurant.pdb
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\BRS_STORE.loginpage.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\BRS_STORE.mainmenu.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\BRS_STORE.rateRecord.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\BRS_STORE.showRecord.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\BRS_STORE.sort.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\BRS_STORE.splashScreen.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\CW-Yuvista Restaurant\CW-Yuvista Restaurant\obj\Debug\BRS_STORE.csprojAssemblyReference.cache
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\bin\Debug\CW-Yuvista Restaurant.exe.config
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\bin\Debug\CW-Yuvista Restaurant.exe
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\bin\Debug\CW-Yuvista Restaurant.pdb
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.loginpage.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.mainmenu.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\CW_Yuvista_Restaurant.Properties.Resources.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.rateRecord.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.showRecord.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.sort.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.splashScreen.resources
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.csproj.GenerateResource.cache
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.csproj.CoreCompileInputs.cache
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\CW-Yuvista Restaurant.exe
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\CW-Yuvista Restaurant.pdb
+D:\ICP last year\Application Development\BRS STORE Final\BRS STORE\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.csprojAssemblyReference.cache
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.loginpage.resources
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.mainmenu.resources
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.rateRecord.resources
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.sort.resources
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.csproj.GenerateResource.cache
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.csproj.CoreCompileInputs.cache
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.viewRecord.resources
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\bin\Debug\BRS STORE.exe.config
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\bin\Debug\BRS STORE.exe
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\bin\Debug\BRS STORE.pdb
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.Properties.Resources.resources
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS STORE.exe
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS STORE.pdb
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.BootStart.resources
+D:\ICP last year\Application Development\Final Coursework\BRS STORE\BRS STORE\obj\Debug\BRS_STORE.csprojAssemblyReference.cache
